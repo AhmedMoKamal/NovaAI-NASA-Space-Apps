@@ -1,54 +1,63 @@
-🌌 NOVA: Echoes in the Dust
+# 🌌 NOVA: Echoes in the Dust
 
-NASA Space Apps Challenge 2026 | Challenge: Abandoned but not Forgotten
+<div align="center">
 
-"Here men from the planet Earth first set foot upon the Moon. We came in peace for all mankind."
+![Unreal Engine](https://img.shields.io/badge/unreal_engine_5.8.4-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/blender_5.0-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/photoshop_2025-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Substance 3D Painter](https://img.shields.io/badge/substance_3d_painter-%23414141.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![CapCut](https://img.shields.io/badge/capcut-%23000000.svg?style=for-the-badge&logo=capcut&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/eleven_labs-%23000000.svg?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Suno](https://img.shields.io/badge/suno_ai-%23000000.svg?style=for-the-badge&logo=suno&logoColor=white)
 
+</div>
 
+---
 
+## 🚀 NASA Space Apps Challenge 2026 | Team: NovaAI
 
-But what about the machines left behind in the silent darkness?
+> *"Here men from the planet Earth first set foot upon the Moon. We came in peace for all mankind."*
+> 
+> But what about the machines left behind in the silent darkness?
 
-🚀 Project Overview
+## 🪐 Project Overview
 
-NOVA is an interactive, cinematic storytelling experience built to revive the forgotten heroes of space exploration. Responding to the "Abandoned but not Forgotten" challenge, our project transforms dry technical archives into an emotional, visually stunning journey.
+**NOVA** is an interactive, cinematic storytelling experience built to revive the forgotten heroes of space exploration. Responding to the **"Abandoned but not Forgotten"** challenge, our project transforms dry technical archives into an emotional, visually stunning journey.
 
-We focus on the legendary Apollo 11 Lunar Module (Eagle) Descent Stage and the Early Apollo Scientific Experiments Package (EASEP)—the very first hardware humanity left on the lunar surface in the Sea of Tranquility.
+We focus on the legendary **Apollo 11 Lunar Module (Eagle) Descent Stage** and the **Early Apollo Scientific Experiments Package (EASEP)**—the very first hardware humanity left on the lunar surface in the Sea of Tranquility.
 
-📖 The Storyline: Apollo 11's Last Whisper
+## 📖 The Storyline: Apollo 11's Last Whisper
 
-1. The Awakening
+### 1. The Awakening
+The experience begins in pitch-black darkness. Faint stars fade into view as the camera approaches the Moon. A retro CRT monitor flickers to life, displaying a fragmented distress signal from **August 27, 1969**—the exact date the EASEP stopped responding to Earth's commands.
 
-The experience begins in pitch-black darkness. Faint stars fade into view as the camera approaches the Moon. A retro CRT monitor flickers to life, displaying a fragmented distress signal from August 27, 1969—the exact date the EASEP stopped responding to Earth's commands.
+### 2. Enter NOVA
+Enter NOVA, a specialized AI entity. Nova guides the player to the Sea of Tranquility (Coordinates: 0.67416° N, 23.47314° E). There, resting silently in the magnificent desolation, lies the descent stage of the Eagle and the dust-covered EASEP instruments.
 
-2. The Mission
+### 3. The Interactive Revival
+The player must interact with the environment to temporarily restore power to the EASEP's solar panels. Once revived, a conversational interface opens. 
 
-Enter NOVA, a specialized AI entity (represented by our vintage, glowing avatar). Nova guides the player to the desolate lunar surface where the gold-foil descent stage and dust-covered EASEP sit in total silence. The player is tasked with a critical mission: Bypass the damaged lunar dust detector, reroute the remaining solar power, and awaken the EASEP one last time.
+Powered by RAG and Large Language Models trained on actual NASA mission logs, the EASEP "speaks." Players can ask the forgotten hardware about its mission, the lunar quakes it measured, and the extreme temperatures it endured before its final transmission.
 
-3. The Echo
+## 🛠️ How We Built It
 
-Upon successful reboot, the machine doesn't just display data—it speaks. Through AI-driven interactions, players converse with the "spirit" of the Apollo 11 hardware, learning about its historic seismic discoveries and the chillingly beautiful isolation of the Moon, before it finally powers down forever in a poignant farewell.
+We utilized a powerful stack of industry-standard tools to bring this vision to life:
 
-✨ Key Features
+- **Unreal Engine 5.8.4:** Used to build the immersive 3D lunar environment, managing lighting, particle effects, and interactive sequences.
+- **Blender 5.0:** Used for 3D modeling the Apollo 11 Descent Stage and EASEP equipment, ensuring historical accuracy.
+- **Substance 3D Painter:** Applied highly detailed, weathered textures to simulate decades of lunar dust and radiation exposure.
+- **Photoshop 2025:** Used for concept art, UI elements, and texture refinement.
+- **CapCut:** Used for editing the final demonstration video and presentation flow.
+- **ElevenLabs:** Powered the voiceover narration, providing a cinematic and engaging vocal tone for the project pitch.
+- **Suno:** Generated the ambient, melancholic space soundtrack that scores the emotional journey of the experience.
 
-🎥 Cinematic 3D Environments: High-fidelity lunar landscapes mimicking the Sea of Tranquility.
+## 📡 NASA Data & Resources Used
 
-📡 Data-Driven Narrative: Every coordinate, date, and scientific discovery mentioned in the game is pulled directly from official NASA archives.
+To ensure complete scientific and historical accuracy, NOVA relies directly on NASA's public archives:
+- **NASA Space Science Data Coordinated Archive (NSSDCA):** We extracted the exact mission profile, coordinates, equipment specs, and the final operational timeline of the Apollo 11 Lunar Module and EASEP[cite: 17, 18, 19]. 
 
-📼 Retro Sci-Fi Aesthetic: A blend of 90s CRT glitch effects, VHS overlays, and deep-space atmospheric lighting.
+---
 
-🔊 Immersive Audio: Original soundscapes, haunting space ambiance, and AI-generated voiceovers.
-
-🛰️ NASA Data & Resources Used
-
-To ensure absolute scientific and historical accuracy, our project relies on data from the NASA Space Science Data Coordinated Archive (NSSDCA):
-
-NSSDCA/COSPAR ID: 1969-059C (Apollo 11 Lunar Module / EASEP)
-
-Coordinates: 0.67416° N latitude, 23.47314° E longitude (Mare Tranquillitatis)
-
-Mission Telemetry: Timestamps of the descent engine firing, EASEP deployment, and the final loss of signal on August 27, 1969.
-
-👥 The Team
-
-NovaAI is a team of 6 passionate creators specializing in AI, Data Science, Backend Development, and 3D Art. We came together to prove that science isn't just about numbers—it's about the stories those numbers tell.
+<div align="center">
+  <i>With NOVA, no explorer is ever truly forgotten.</i>
+</div>

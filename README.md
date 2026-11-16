@@ -14,6 +14,18 @@
 
 ---
 
+## 🎮 Download & Play (Windows)
+
+1. **Download** [`NovaAI_Game.zip`](https://github.com/AhmedMoKamal/NovaAI-NASA-Space-Apps/releases/latest/download/NovaAI_Game.zip) from the [Releases page](https://github.com/AhmedMoKamal/NovaAI-NASA-Space-Apps/releases/latest).
+2. **Right-click** the zip and choose **Extract All...**
+3. Open the extracted `Windows` folder and double-click:
+   - **`NovaAI.exe`**: the normal version (DirectX 11). Works on almost every PC. **Start with this one.**
+   - **`Play NOVA (DirectX 12 - optional).bat`**: for newer graphics cards (NVIDIA RTX / AMD RX) with up-to-date drivers.
+
+Full step-by-step guide and controls: **[HOW_TO_PLAY.md](HOW_TO_PLAY.md)**  ·  Presentation: **[NOVA_AI_Presentation.pptx](NOVA_AI_Presentation.pptx)**
+
+---
+
 ## 🚀 NASA Space Apps Challenge 2026 | Team: NovaAI
 
 > *"Here men from the planet Earth first set foot upon the Moon. We came in peace for all mankind."*

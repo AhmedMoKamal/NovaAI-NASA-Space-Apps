@@ -46,11 +46,6 @@ The experience begins in pitch-black darkness. Faint stars fade into view as the
 ### 2. Enter NOVA
 Enter NOVA, a specialized AI entity. Nova guides the player to the Sea of Tranquility (Coordinates: 0.67416° N, 23.47314° E). There, resting silently in the magnificent desolation, lies the descent stage of the Eagle and the dust-covered EASEP instruments.
 
-### 3. The Interactive Revival
-The player must interact with the environment to temporarily restore power to the EASEP's solar panels. Once revived, a conversational interface opens. 
-
-Powered by RAG and Large Language Models trained on actual NASA mission logs, the EASEP "speaks." Players can ask the forgotten hardware about its mission, the lunar quakes it measured, and the extreme temperatures it endured before its final transmission.
-
 ## 🛠️ How We Built It
 
 We utilized a powerful stack of industry-standard tools to bring this vision to life:
